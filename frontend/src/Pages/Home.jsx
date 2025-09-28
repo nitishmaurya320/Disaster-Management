@@ -60,12 +60,7 @@ const Home = () => {
             >
               Get Help
             </a>
-            <a
-              href="/volunteer"
-              className="bg-white text-blue-900 px-6 py-3 rounded-lg font-semibold hover:bg-gray-200"
-            >
-              Volunteer
-            </a>
+           
           </div>
 
           {/* SOS Button */}
