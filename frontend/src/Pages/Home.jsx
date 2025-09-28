@@ -129,6 +129,18 @@ const Home = () => {
               Donate Now →
             </a>
           </div>
+          <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition">
+            <h2 className="text-2xl font-bold mb-3 text-blue-700">Virtual Drills</h2>
+            <p className="text-gray-600 mb-4">
+              Interactive simulations that train users to respond safely during disasters.
+            </p>
+            <a 
+              href="/drills" 
+              className="text-yellow-500 font-semibold hover:underline"
+            >
+              Start drills →
+            </a>
+          </div>
 
           <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition">
             <h2 className="text-2xl font-bold mb-3 text-blue-700">Emergency contacts</h2>
